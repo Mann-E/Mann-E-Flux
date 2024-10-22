@@ -43,4 +43,4 @@ There will be an initial release in November this year.
 
 * [Website](https://mann-e.com)
 * [Discord](https://discord.gg/7UBd7J36B4)
-
+* [Personal blog of Muhammadreza Haghiri](https://haghiri75.com/en)
