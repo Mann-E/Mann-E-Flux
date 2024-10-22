@@ -22,6 +22,10 @@ _Quality_ and _Anime_ versions are a little older than Flux version actually, bu
 
 ### Outputs of three models
 
+<p align="center">
+    <img src="three.png">
+</p>
+
 ## Characteristics of The Model
 
 The model is mostly like your regular FLUX-1[Dev] model, with these differences: 
