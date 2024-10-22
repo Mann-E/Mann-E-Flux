@@ -18,6 +18,10 @@ There will be three versions available. Two of them will be completely proprieta
 
 ### Difference Between Proprietary (Quality/Anime) and Flux versions
 
+_Quality_ and _Anime_ versions are a little older than Flux version actually, but since we adopted the new architecture, we decided to rebuild these models to have a more unified infrastructure in our hands. Also it is important to note that both of these models are made to support some midjourney-like behavior (such as `--sref` or other flags you're using with midjourney.) and the flux version, is not like that. 
+
+### Outputs of three models
+
 ## Characteristics of The Model
 
 The model is mostly like your regular FLUX-1[Dev] model, with these differences: 
