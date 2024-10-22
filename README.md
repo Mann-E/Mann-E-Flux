@@ -10,6 +10,12 @@ This model, follows the same architecture as flux and can be used with diffusers
 
 ## Versions
 
+There will be three versions available. Two of them will be completely proprietary and one will be published under _[MPSL](https://github.com/mann-e/mpsl)_ license.
+
+1. Quality 
+2. Anime 
+3. Flux 
+
 ## Characteristics of The Model
 
 The model is mostly like your regular FLUX-1[Dev] model, with these differences: 
