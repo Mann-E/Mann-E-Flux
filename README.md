@@ -4,6 +4,11 @@ In the past few months, FLUX models became a trend on the internet and specially
 
 This model, follows the same architecture as flux and can be used with diffusers and we currently use it in our private systems. Thanks to [RunPod](https://runpod.io) we managed to make this model in less than 48 hours on A100 and H100 GPU's!
 
+<p align="center">
+</p>
+
+## Versions
+
 ## Characteristics of The Model
 
 The model is mostly like your regular FLUX-1[Dev] model, with these differences: 
