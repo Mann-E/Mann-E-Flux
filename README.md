@@ -37,7 +37,7 @@ In the photo above, we tried to make an expressionist painting with both models.
 
 ## Release Date 
 
-There will be an initial release in November this year. 
+There will be an initial release in the end of November this year. 
 
 ## Community 
 
