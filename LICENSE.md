@@ -2,7 +2,7 @@
 
 Version 1.0
 
-_Effective Date: [Insert Date]_
+_Effective Date: October 22nd, 2024_
 
 ## Definitions
 * __Licensor__ refers to the individual or organization that holds the copyright for the software and grants this license.
