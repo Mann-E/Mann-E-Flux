@@ -23,3 +23,22 @@ The model is mostly like your regular FLUX-1[Dev] model, with these differences:
 1. The images used in training, like our _Mann-E Dreams_ model, are from midjourney. So you will have a more "Midjourney like" feel using this model. 
 2. The model does the inference in only 8-10 steps (exactly like our Dreams model, we're manouvering on our speed!)
 
+## Comparison with FLUX-1[Dev]
+
+![Analog photo](./compariosn-1.jpg)
+
+In the photo above, we used the same prompt with both models and you can see the output. And now what about something a little more artistic? 
+
+![Expressionism](./compariosn-2.jpg)
+
+In the photo above, we tried to make an expressionist painting with both models. 
+
+## Release Date 
+
+There will be an initial release in November this year. 
+
+## Community 
+
+* [Website](https://mann-e.com)
+* [Discord](https://discord.gg/7UBd7J36B4)
+
