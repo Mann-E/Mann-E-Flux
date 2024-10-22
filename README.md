@@ -2,7 +2,7 @@
 
 In the past few months, FLUX models became a trend on the internet and specially the AI community. We, at Mann-E, tried to develop FLUX-inspired models (with similar architecture) and this repository is for tools and codes related to the Mann-E Flux model. 
 
-This model, follows the same architecture as flux and can be used with diffusers and we currently use it in our private systems. Thanks to [RunPod](https://runpod.io) we managed to make this model in less than 48 hours on A100 and H100 GPU's!
+This model, follows the same architecture as flux and can be used with diffusers and we currently use it in our private systems. Thanks to [RunPod](https://runpod.io) we managed to make this model in less than 480 hours on A100 and H100 GPU's!
 
 <p align="center">
     <img src="banner.png">
