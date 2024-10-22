@@ -16,6 +16,8 @@ There will be three versions available. Two of them will be completely proprieta
 2. Anime 
 3. Flux 
 
+### Difference Between Proprietary (Quality/Anime) and Flux versions
+
 ## Characteristics of The Model
 
 The model is mostly like your regular FLUX-1[Dev] model, with these differences: 
