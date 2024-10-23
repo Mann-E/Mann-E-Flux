@@ -54,3 +54,12 @@ There will be an initial release in the end of November this year.
 * [Website](https://mann-e.com)
 * [Discord](https://discord.gg/7UBd7J36B4)
 * [Personal blog of Muhammadreza Haghiri](https://haghiri75.com/en)
+
+# Donations 
+
+* Bitcoin (BTC): `bc1qtah5agu8629kj3j3jx4w6w0nj7l4srknwg8wku`
+* Doge Coin (DOGE): `D7dG7Tk4C8e4K5UdPZyoU76tXZ5LkcCVm1`
+* Ethereum (ETH): `0x26abcBd0437C2F2B713D6C2d598cD4988DbacC87`
+* Solana (SOL): `8VgLEL2Y6TFWgzdeK5zCMTRN23EQ4HZaK3xsoe6Jggnc`
+* Telegram's Ton (TON): `UQBtQ4UBf1gOnlAfkgAo-XNNOCQ_dKlVWj3xygit7oUX4uVA`
+* Tron (TRX): `TKx8FWAozZmwDsPAYcGbNnE56mJDxJ4ZWF`*
