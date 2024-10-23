@@ -62,4 +62,4 @@ There will be an initial release in the end of November this year.
 * Ethereum (ETH): `0x26abcBd0437C2F2B713D6C2d598cD4988DbacC87`
 * Solana (SOL): `8VgLEL2Y6TFWgzdeK5zCMTRN23EQ4HZaK3xsoe6Jggnc`
 * Telegram's Ton (TON): `UQBtQ4UBf1gOnlAfkgAo-XNNOCQ_dKlVWj3xygit7oUX4uVA`
-* Tron (TRX): `TKx8FWAozZmwDsPAYcGbNnE56mJDxJ4ZWF`*
+* Tron (TRX): `TKx8FWAozZmwDsPAYcGbNnE56mJDxJ4ZWF`
