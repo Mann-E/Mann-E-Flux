@@ -8,6 +8,10 @@ This model, follows the same architecture as flux and can be used with diffusers
     <img src="banner.png">
 </p>
 
+## News 
+
+* __October 23rd 2024__ : Public announcements are made in various social media.
+
 ## Versions
 
 There will be three versions available. Two of them will be completely proprietary and one will be published under _[MPSL](https://github.com/mann-e/mpsl)_ license.
