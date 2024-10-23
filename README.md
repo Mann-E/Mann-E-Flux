@@ -13,6 +13,12 @@ This model, follows the same architecture as flux and can be used with diffusers
 * [News](#news)
 * [Versions](#versions)
     * [Difference Between Proprietary (Quality/Anime) and Flux versions](#difference-between-proprietary-qualityanime-and-flux-versions)
+* [Characteristics of The Model](#characteristics-of-the-model)
+* [Comparison with FLUX-1[Dev]](https://github.com/Mann-E/Mann-E-Flux?tab=readme-ov-file#characteristics-of-the-model)
+* [Release Date](#release-date)
+* [Community](#community)
+* [Donations](#donations)
+* [Affiliations/Spnosorship](#affiliationssponsorships)
 
 ## News 
 
