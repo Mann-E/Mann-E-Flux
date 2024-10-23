@@ -8,6 +8,8 @@ This model, follows the same architecture as flux and can be used with diffusers
     <img src="banner.png">
 </p>
 
+## Table of Contents
+
 ## News 
 
 * __October 23rd 2024__ : Public announcements are made in various social media.
