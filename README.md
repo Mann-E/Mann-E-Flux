@@ -10,6 +10,10 @@ This model, follows the same architecture as flux and can be used with diffusers
 
 ## Table of Contents
 
+* [News](#news)
+* [Versions](#versions)
+    * [Difference Between Proprietary (Quality/Anime) and Flux versions](#difference-between-proprietary-qualityanime-and-flux-versions)
+
 ## News 
 
 * __October 23rd 2024__ : Public announcements are made in various social media.
