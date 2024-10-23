@@ -44,7 +44,3 @@ In no event shall the Licensor be liable for any damages arising from the use or
 ## 8. Acceptance of License
 
 By using, modifying, or distributing the Software, you agree to comply with the terms of this Mann-E Public Source License.
-
----
-
-This version of the MPSL includes a clause that allows for the commercial use of outputs by users who self-host the software or AI model, providing flexibility for those users while maintaining the core structure of the license.
