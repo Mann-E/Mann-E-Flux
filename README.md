@@ -63,3 +63,7 @@ There will be an initial release in the end of November this year.
 * Solana (SOL): `8VgLEL2Y6TFWgzdeK5zCMTRN23EQ4HZaK3xsoe6Jggnc`
 * Telegram's Ton (TON): `UQBtQ4UBf1gOnlAfkgAo-XNNOCQ_dKlVWj3xygit7oUX4uVA`
 * Tron (TRX): `TKx8FWAozZmwDsPAYcGbNnE56mJDxJ4ZWF`
+
+## Affiliations/Sponsorships 
+
+If you can financially support our product or provide infrastructure grants for hosting our models, you can contact us at `muhammadreza.haghiri@gmail.com` and send your proposals.
