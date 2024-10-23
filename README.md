@@ -66,4 +66,4 @@ There will be an initial release in the end of November this year.
 
 ## Affiliations/Sponsorships 
 
-If you can financially support our product or provide infrastructure grants for hosting our models, you can contact us at `muhammadreza.haghiri@gmail.com` and send your proposals.
+If you can financially support our product, provide infrastructure grants for hosting our models or want to host the model on your own platform, you can contact us at `muhammadreza.haghiri@gmail.com` and send your proposals.
