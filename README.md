@@ -18,7 +18,7 @@ This model, follows the same architecture as flux and can be used with diffusers
 * [Release Date](#release-date)
 * [Community](#community)
 * [Donations](#donations)
-* [Affiliations/Spnosorship](#affiliationssponsorships)
+* [Affiliations/Sponsorship](#affiliationssponsorships)
 
 ## News 
 
