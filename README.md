@@ -1,6 +1,6 @@
-# Mann-E Flux : The last AI image model you'll test
+# Mann-E Pro : The last AI image model you'll test
 
-In the past few months, FLUX models became a trend on the internet and specially the AI community. We, at Mann-E, tried to develop FLUX-inspired models (with similar architecture) and this repository is for tools and codes related to the Mann-E Flux model. 
+In the past few months, FLUX models became a trend on the internet and specially the AI community. We, at Mann-E, tried to develop FLUX-inspired models (with similar architecture) and this repository is for tools and codes related to the Mann-E Pro model. 
 
 This model, follows the same architecture as flux and can be used with diffusers and we currently use it in our private systems. Thanks to [RunPod](https://runpod.io) we managed to make this model in less than 480 hours on A100 and H100 GPU's!
 
@@ -30,7 +30,7 @@ There will be three versions available. Two of them will be completely proprieta
 
 1. Quality 
 2. Anime 
-3. Flux 
+3. Pro
 
 ### Difference Between Proprietary (Quality/Anime) and Flux versions
 
